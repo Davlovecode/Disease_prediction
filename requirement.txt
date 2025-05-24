@@ -1,0 +1,4 @@
+pandas
+pickle
+speech_recognition 
+ os
